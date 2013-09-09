@@ -1,0 +1,16 @@
+HFRLB BOM
+Etherkit
+8 Sep 2013
+
+| Part (marking)                  | Qty  | Ref                            | P/N
+======================================================================================================
+| BNC                               3      J1, J2, J3                       Amphenol 31-5431-10RFX
+
+Resistors (all resistors 0.25 watt 1206 0.1%)
+| 49.9                              3      R1, R2, R3                       Vishay TNPW120649R9BEEA
+
+Miscellaneous
+| Red Magnet Wire, 32 AWG (feet)    1
+| Green Magnet Wire, 32 AWG (feet)  1
+| PCB                               1
+| Enclosure                         1

@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sun 08 Sep 2013 11:46:25 AM PDT
+
+BeginCmp
+TimeStamp = /522CBCDC;
+Reference = J1;
+ValeurCmp = Generator;
+IdModule  = BNC-AMPHENOL-31-5431-10RFX;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CBCC9;
+Reference = J2;
+ValeurCmp = Unknown;
+IdModule  = BNC-AMPHENOL-31-5431-10RFX;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CBCD6;
+Reference = J3;
+ValeurCmp = Detector;
+IdModule  = BNC-AMPHENOL-31-5431-10RFX;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CBBEE;
+Reference = R1;
+ValeurCmp = 49.9 0.1%;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CBBFB;
+Reference = R2;
+ValeurCmp = 49.9 0.1%;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CBC01;
+Reference = R3;
+ValeurCmp = 49.9 0.1%;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CBB2A;
+Reference = T1;
+ValeurCmp = FB73-2401 10T bifilar;
+IdModule  = T37-V-BIFILARXFMR;
+EndCmp
+
+EndListe
